@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GlennComis
-- 👀 I wear glasses to C#
+- 👀 I wear glasses so I can C#
 - 🌱 Always trying to grow, learning HoloLens Development
 - 📫 Add me on LinkedIn: https://www.linkedin.com/in/glenn-comis-a0939a17a/
 
